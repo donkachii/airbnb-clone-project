@@ -63,8 +63,8 @@ By completing this project, we aim to:
 
 ---
 
-## 👥 Roles & Responsibilities  
-- **Project Manager:** Oversees timeline & deliverables  
+## 👥 Project Roles and Responsibilities
+- **Project Manager:** Oversees timeline & deliverables  5
 - **Frontend Developers:** Build UI components, ensure responsiveness  
 - **Backend Developers:** Implement APIs, database models, business logic  
 - **Designers:** Create mockups, maintain design consistency  
